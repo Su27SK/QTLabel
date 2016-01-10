@@ -12,6 +12,7 @@ Only cover the latest message once, and could show the one message in Label.The 
 
 ## Simple counting example
 * counting from one to nine (you could use message replace it)
+
 ![counting for one to nine](https://github.com/Su27SK/QTLabel/blob/master/count1.png)
 
 ![counting for one to nine](https://github.com/Su27SK/QTLabel/blob/master/count2.png)
